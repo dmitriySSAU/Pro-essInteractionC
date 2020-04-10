@@ -1,4 +1,4 @@
-# Pro-essInteractionC
+# ProcessInteractionC
 Examples of methods for using process interaction in the C language.
 
 Files Lab1, P2 and P3 show simple process interaction example by sending/receiving messages via created channel.
